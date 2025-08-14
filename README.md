@@ -1,7 +1,5 @@
-# metabolism_drinking
+# Peripheral alcohol metabolism dictates ethanol consumption and drinking microstructure in mice
 Metabolism Lickometer Data
-
-Peripheral alcohol metabolism dictates ethanol consumption and drinking microstructure in mice
 doi: https://doi.org/10.1111/acer.70036
 
 Abstract
